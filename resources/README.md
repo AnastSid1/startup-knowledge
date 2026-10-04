@@ -1,6 +1,8 @@
 # Resources
 
-Curated starting points for deeper learning. Prefer primary sources and reputable operators. This list is not exhaustive and will grow through contributions.
+The main curated list lives in the root **[README.md](../README.md)** (awesome-list style with jump links).
+
+This page keeps a shorter backup set of starting points. Prefer primary sources and reputable operators.
 
 ## Classic essays & libraries
 

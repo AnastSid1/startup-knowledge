@@ -6,13 +6,25 @@ Anyone can contribute — founders, operators, investors, students, and curious 
 
 ## Ways to contribute
 
-1. **Fix mistakes** — correct inaccurate definitions, outdated ranges, or broken links.
-2. **Improve clarity** — rewrite confusing sections without changing the meaning.
-3. **Add practical examples** — realistic numbers, scenarios, and “how founders use this.”
-4. **Add related concepts** — new pages that fill an important gap in the map.
-5. **Improve navigation** — better cross-links, glossary entries, and section indexes.
-6. **Suggest sources** — reputable references that strengthen a page.
+This repo works like an [awesome list](https://github.com/sindresorhus/awesome): the [README](README.md) is the browsable index (jump links + curated resources), and the folders hold deeper guides.
+
+1. **Add curated links** — high-quality resources under the right README section (short description, no fluff).
+2. **Fix mistakes** — correct inaccurate definitions, outdated ranges, or broken links.
+3. **Improve clarity** — rewrite confusing sections without changing the meaning.
+4. **Add practical examples** — realistic numbers, scenarios, and “how founders use this.”
+5. **Add related concepts** — new guide pages that fill an important gap, then link them from the README.
+6. **Improve navigation** — better cross-links, glossary entries, and README anchors.
 7. **Open issues** — report gaps, request topics, or flag ambiguity.
+
+### Awesome-list link style
+
+Prefer:
+
+```markdown
+- [Resource name](https://example.com) — one-line why it is useful
+```
+
+Only add resources you would recommend to a founder. Prefer primary sources (YC, essays, reputable operator writing) over thin SEO posts.
 
 ## Contribution standards
 

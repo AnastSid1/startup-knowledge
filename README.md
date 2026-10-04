@@ -1,91 +1,100 @@
-# Startup Knowledge
+# Awesome Startup Knowledge
 
-**An open, free-to-read knowledge base for founders, operators, and anyone learning how startups work.**
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
-This repository is a practical “Startup OS”: clear explanations of the concepts you will meet while building a company — product, customers, markets, growth, sales, metrics, fundraising, and strategy — written for smart beginners and useful to people actually shipping.
+Curated startup knowledge for founders: plain-language guides, key concepts, and high-quality external resources.
 
-Anyone can read it, share it, suggest improvements, open issues, and submit pull requests.
-
-Licensed under [CC BY 4.0](LICENSE).
-
----
-
-## Who this is for
-
-- First-time founders who want accurate mental models
-- Early employees learning the language of startups
-- Students and career-switchers exploring venture-backed company building
-- Operators who want a shared vocabulary with their team
-- Contributors who want to improve public founder education
-
-You do not need prior startup experience to start here.
-
-## Why this exists
-
-Startup advice is scattered across threads, paywalled courses, and conflicting blog posts. Definitions get fuzzy (“PMF,” “moat,” “Series A ready”), and jargon often arrives before understanding.
-
-This project exists to provide:
-
-- **Clear explanations** in plain language
-- **Practical examples** with realistic numbers
-- **Cross-links** so concepts connect into a system
-- **An open contribution model** so the resource can improve in public
-
-It is free. It is not paywalled. It is not a hype blog.
-
-## How the knowledge is organized
-
-```text
-01-product/        What to build and how to find fit
-02-customers/      Who you serve
-03-market/         Market size and defensibility
-04-growth/         How demand compounds
-05-sales/          How offers reach and convert buyers
-06-finance/        Metrics that measure health
-07-fundraising/    Capital, ownership, and stages
-08-strategy/       How the pieces fit together
-glossary/          A–Z index of concepts
-resources/         Curated further learning
-```
-
-Suggested learning paths:
-
-**Build something people want**  
-[MVP](01-product/mvp.md) → [ICP](02-customers/icp.md) → [Wedge](01-product/wedge.md) → [PMF](01-product/product-market-fit.md) → [GTM](05-sales/go-to-market.md) → [Growth loops](04-growth/growth-loops.md)
-
-**Understand the market**  
-[TAM](03-market/tam.md) → [SAM](03-market/sam.md) → [SOM](03-market/som.md) → [Beachhead](08-strategy/beachhead-market.md) → [GTM](05-sales/go-to-market.md)
-
-**Survive and raise**  
-[Burn](06-finance/burn-rate.md) → [Runway](06-finance/runway.md) → [SAFE](07-fundraising/safe.md) → [Seed](07-fundraising/seed.md) → [Series A](07-fundraising/series-a.md)
-
-**Unit economics**  
-[CAC](06-finance/cac.md) → [LTV](06-finance/ltv.md) → [LTV:CAC](06-finance/ltv-cac.md) → [Payback](06-finance/payback-period.md)
-
-Quick lookup: **[Startup Glossary / Index](glossary/INDEX.md)**
+Free to read. Open to contributions. Built so you can jump to a topic — like [Raising Money](#raising-money) — and go deeper from there.
 
 ---
 
-## Table of contents
+## Contents
 
-### 01 — Product
+- [Guides in this repo](#guides-in-this-repo)
+- [Product](#product)
+- [Customers](#customers)
+- [Market & Moats](#market--moats)
+- [Growth](#growth)
+- [Sales & GTM](#sales--gtm)
+- [Metrics & Financials](#metrics--financials)
+- [Raising Money](#raising-money)
+- [Equity & Deal Terms](#equity--deal-terms)
+- [Strategy](#strategy)
+- [Learning Resources](#learning-resources)
+- [Books](#books)
+- [Newsletters](#newsletters)
+- [Videos & Podcasts](#videos--podcasts)
+- [Communities](#communities)
+- [Incubators & Accelerators](#incubators--accelerators)
+- [Glossary](#glossary)
+- [Contributing](#contributing)
 
-- [Section overview](01-product/README.md)
-- [MVP](01-product/mvp.md)
-- [Wedge](01-product/wedge.md)
-- [Founder-Market Fit](01-product/founder-market-fit.md)
-- [Product-Market Fit](01-product/product-market-fit.md)
-- [Product Worth](01-product/product-worth.md)
-- [Product-Led Growth](01-product/product-led-growth.md)
+---
 
-### 02 — Customers
+## Guides in this repo
 
-- [Section overview](02-customers/README.md)
+Deep explainers written for smart beginners. Each page covers what it means, why it matters, when to care, examples, formulas, and related concepts.
+
+| Section | Start here |
+| --- | --- |
+| Product | [01-product/](01-product/) |
+| Customers | [02-customers/](02-customers/) |
+| Market | [03-market/](03-market/) |
+| Growth | [04-growth/](04-growth/) |
+| Sales & GTM | [05-sales/](05-sales/) |
+| Metrics | [06-finance/](06-finance/) |
+| Fundraising | [07-fundraising/](07-fundraising/) |
+| Strategy | [08-strategy/](08-strategy/) |
+
+Suggested paths:
+
+- **Build something people want:** [MVP](01-product/mvp.md) → [ICP](02-customers/icp.md) → [Wedge](01-product/wedge.md) → [PMF](01-product/product-market-fit.md) → [GTM](05-sales/go-to-market.md)
+- **Understand the market:** [TAM](03-market/tam.md) → [SAM](03-market/sam.md) → [SOM](03-market/som.md) → [Beachhead](08-strategy/beachhead-market.md)
+- **Survive and raise:** [Burn](06-finance/burn-rate.md) → [Runway](06-finance/runway.md) → [SAFE](07-fundraising/safe.md) → [Seed](07-fundraising/seed.md) → [Series A](07-fundraising/series-a.md)
+
+---
+
+## Product
+
+### Guides
+
+- [MVP](01-product/mvp.md) — smallest useful product for learning
+- [Wedge](01-product/wedge.md) — narrow entry point before expanding
+- [Founder-Market Fit](01-product/founder-market-fit.md) — why *you* can win this market
+- [Product-Market Fit](01-product/product-market-fit.md) — evidence the market wants the product
+- [Product Worth](01-product/product-worth.md) — value created and willingness to pay
+- [Product-Led Growth](01-product/product-led-growth.md) — product as the growth engine
+
+### Resources
+
+- [YC Library](https://www.ycombinator.com/library) — practical founder guidance
+- [Do Things that Don’t Scale — Paul Graham](http://paulgraham.com/ds.html)
+- [How Superhuman Built an Engine to Find Product-Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [OpenView — Product-Led Growth](https://openviewpartners.com/) — PLG research and essays
+- [Product-Led Growth by Wes Bush](https://productled.com/book)
+
+---
+
+## Customers
+
+### Guides
+
 - [ICP (Ideal Customer Profile)](02-customers/icp.md)
+- Related: [Beachhead Market](08-strategy/beachhead-market.md) · [Positioning](08-strategy/positioning.md)
 
-### 03 — Market & competitive strategy
+### Resources
 
-- [Section overview](03-market/README.md)
+- [The Mom Test — Rob Fitzpatrick](https://www.momtestbook.com/) — how to talk to customers without fooling yourself
+- [How to Get Startup Ideas — Paul Graham](http://paulgraham.com/startupideas.html)
+- [First Round Review](https://review.firstround.com/) — operator essays on ICP, sales, and early learning
+
+---
+
+## Market & Moats
+
+### Guides
+
 - [TAM](03-market/tam.md) · [SAM](03-market/sam.md) · [SOM](03-market/som.md)
 - [Competitive Advantage](03-market/competitive-advantage.md)
 - [Moat](03-market/moat.md)
@@ -95,9 +104,18 @@ Quick lookup: **[Startup Glossary / Index](glossary/INDEX.md)**
 - [Data Moat](03-market/data-moat.md)
 - [Brand Moat](03-market/brand-moat.md)
 
-### 04 — Growth
+### Resources
 
-- [Section overview](04-growth/README.md)
+- [7 Powers — Hamilton Helmer](https://www.7powers.com/) — framework for durable advantage
+- [NFX Network Effects Manual](https://www.nfx.com/post/network-effects-manual)
+- [a16z](https://a16z.com/) — market structure and defensibility essays
+
+---
+
+## Growth
+
+### Guides
+
 - [Distribution](04-growth/distribution.md)
 - [Organic Growth](04-growth/organic-growth.md)
 - [Paid Acquisition](04-growth/paid-acquisition.md)
@@ -109,17 +127,36 @@ Quick lookup: **[Startup Glossary / Index](glossary/INDEX.md)**
 - [Referral Loops](04-growth/referral-loops.md)
 - [North Star Metric](04-growth/north-star-metric.md)
 
-### 05 — Sales & GTM
+### Resources
 
-- [Section overview](05-sales/README.md)
+- [Startup = Growth — Paul Graham](http://paulgraham.com/growth.html)
+- [Lenny’s Newsletter](https://www.lennysnewsletter.com/) — product and growth deep-dives
+- [Reforge](https://www.reforge.com/) — advanced growth programs and writing
+- [Cold Start Problem — Andrew Chen](https://www.andrewchen.com/) — network effects / cold start thinking
+
+---
+
+## Sales & GTM
+
+### Guides
+
 - [Go-To-Market](05-sales/go-to-market.md)
 - [Sales](05-sales/sales.md)
-- [Sales Motion](05-sales/sales-motion.md)
+- [Sales Motion](05-sales/sales-motion.md) — PLG vs sales-led vs hybrid
 - [Lead Worth](05-sales/lead-worth.md)
 
-### 06 — Metrics & financials
+### Resources
 
-- [Section overview](06-finance/README.md)
+- [Founding Sales — Peter Kazanjy](https://www.foundingsales.com/)
+- [First Round Review — sales & GTM](https://review.firstround.com/)
+- [OpenView — product-led go-to-market](https://openviewpartners.com/)
+
+---
+
+## Metrics & Financials
+
+### Guides
+
 - [Burn Rate](06-finance/burn-rate.md) · [Runway](06-finance/runway.md)
 - [Revenue](06-finance/revenue.md) · [MRR](06-finance/mrr.md) · [ARR](06-finance/arr.md)
 - [Growth Rate](06-finance/growth-rate.md) · [Gross Margin](06-finance/gross-margin.md)
@@ -127,90 +164,161 @@ Quick lookup: **[Startup Glossary / Index](glossary/INDEX.md)**
 - [Retention](06-finance/retention.md) · [Churn](06-finance/churn.md) · [Cohorts](06-finance/cohorts.md)
 - [CAC](06-finance/cac.md) · [LTV](06-finance/ltv.md) · [LTV:CAC](06-finance/ltv-cac.md) · [Payback Period](06-finance/payback-period.md)
 
-### 07 — Fundraising
+### Resources
 
-- [Section overview](07-fundraising/README.md)
-- [Pre-Seed](07-fundraising/pre-seed.md) · [Seed](07-fundraising/seed.md)
-- [Series A](07-fundraising/series-a.md) · [Series B](07-fundraising/series-b.md)
-- [Bridge Round](07-fundraising/bridge-round.md) · [SAFE](07-fundraising/safe.md)
-- [Valuation](07-fundraising/valuation.md) · [Dilution](07-fundraising/dilution.md)
-- [Cap Table](07-fundraising/cap-table.md) · [Term Sheet](07-fundraising/term-sheet.md)
+- [Default Alive or Default Dead — Paul Graham](http://paulgraham.com/aord.html)
+- [Mostly Metrics](https://www.mostlymetrics.com/) — SaaS metrics explained
+- [Bessemer Cloud Index / SaaS metrics writing](https://www.bvp.com/)
+- [Stripe Atlas guides](https://stripe.com/atlas/guides)
 
-### 08 — Strategy
+---
 
-- [Section overview](08-strategy/README.md)
+## Raising Money
+
+### Guides
+
+- [Pre-Seed](07-fundraising/pre-seed.md)
+- [Seed](07-fundraising/seed.md)
+- [Series A](07-fundraising/series-a.md)
+- [Series B](07-fundraising/series-b.md)
+- [Bridge Round](07-fundraising/bridge-round.md)
+- [SAFE](07-fundraising/safe.md)
+- [Valuation](07-fundraising/valuation.md)
+
+### Resources
+
+- [How to Raise Money — Paul Graham](http://www.paulgraham.com/fr.html)
+- [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — standard SAFE templates and explainers
+- [Investopedia — Series A, B, C funding explained](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
+- [Venture Deals — Brad Feld & Jason Mendelson](https://www.venturedeals.com/)
+- [YC Library — fundraising](https://www.ycombinator.com/library)
+- [Pitch deck collections](https://www.chagency.co.uk/getstartupfunding/) — curated VC pitch decks
+- [Strictly VC](https://strictlyvc.com/) — fundraising and deal-flow news
+
+---
+
+## Equity & Deal Terms
+
+### Guides
+
+- [Dilution](07-fundraising/dilution.md)
+- [Cap Table](07-fundraising/cap-table.md)
+- [Term Sheet](07-fundraising/term-sheet.md)
+- [Valuation](07-fundraising/valuation.md)
+- [SAFE](07-fundraising/safe.md)
+
+### Resources
+
+- [YC SAFE documents](https://www.ycombinator.com/documents/)
+- [NVCA model legal documents](https://nvca.org/model-legal-documents/)
+- [Splitting equity among co-founders — YC](https://www.ycombinator.com/library/5x-how-to-split-equity-among-co-founders)
+- [Venture Deals](https://www.venturedeals.com/) — term sheet mechanics
+
+---
+
+## Strategy
+
+### Guides
+
 - [Business Model](08-strategy/business-model.md)
 - [Unit Economics](08-strategy/unit-economics.md)
 - [Beachhead Market](08-strategy/beachhead-market.md)
 - [Positioning](08-strategy/positioning.md)
 
-### Reference
+### Resources
 
-- [Glossary / Index](glossary/INDEX.md)
-- [Resources](resources/README.md)
-- [Contributing](CONTRIBUTING.md)
-- [License](LICENSE)
+- [Obviously Awesome — April Dunford](https://www.aprildunford.com/obviously-awesome) — practical positioning
+- [Crossing the Chasm — Geoffrey Moore](https://en.wikipedia.org/wiki/Crossing_the_Chasm)
+- [Zero to One — Peter Thiel](https://www.penguinrandomhouse.com/books/234228/zero-to-one-by-peter-thiel-with-blake-masters/)
 
 ---
 
-## What makes a good page here
+## Learning Resources
 
-Each concept page aims to explain:
+- [Y Combinator Library](https://www.ycombinator.com/library)
+- [Paul Graham’s essays](http://www.paulgraham.com/articles.html)
+- [Sam Altman’s blog](https://blog.samaltman.com/)
+- [a16z](https://a16z.com/)
+- [Sequoia](https://www.sequoiacap.com/)
+- [First Round Review](https://review.firstround.com/)
+- [OpenView](https://openviewpartners.com/)
+- [Stripe Press](https://press.stripe.com/)
+- More curated links: [resources/](resources/)
 
-1. What it means
-2. Why it matters
-3. When founders should care
-4. How it works (with formulas when useful)
-5. A practical example
-6. Common confusion with similar terms
-7. Related concepts
-8. Further reading
+---
 
-If a page falls short, [open an issue](https://github.com/AnastSid1/startup-knowledge/issues) or PR.
+## Books
+
+- *The Lean Startup* — Eric Ries
+- *The Mom Test* — Rob Fitzpatrick
+- *Zero to One* — Peter Thiel
+- *Crossing the Chasm* — Geoffrey Moore
+- *Obviously Awesome* — April Dunford
+- *7 Powers* — Hamilton Helmer
+- *Founding Sales* — Peter Kazanjy
+- *Venture Deals* — Brad Feld & Jason Mendelson
+- *The Hard Thing About Hard Things* — Ben Horowitz
+- *Traction* — Gabriel Weinberg & Justin Mares
+- *Product-Led Growth* — Wes Bush
+- *Disciplined Entrepreneurship* — Bill Aulet
+- *Monetizing Innovation* — Madhavan Ramanujam
+
+---
+
+## Newsletters
+
+- [Lenny’s Newsletter](https://www.lennysnewsletter.com/) — product and growth
+- [Strictly VC](https://strictlyvc.com/) — fundraising news
+- [Mostly Metrics](https://www.mostlymetrics.com/) — SaaS metrics
+- [Founder Weekly](https://www.founderweekly.com/) — curated founder links
+- [TLDR](https://tldr.tech/) — daily tech digest
+
+---
+
+## Videos & Podcasts
+
+- [YC Startup School playlists](https://www.ycombinator.com/library)
+- [Acquired](https://www.acquired.fm/)
+- [Masters of Scale](https://mastersofscale.com/)
+- [a16z Podcast](https://a16z.com/podcasts/)
+
+---
+
+## Communities
+
+- [Hacker News](https://news.ycombinator.com/)
+- [Product Hunt](https://www.producthunt.com/)
+- [r/SaaS](https://www.reddit.com/r/SaaS)
+- [Indie Hackers](https://www.indiehackers.com/)
+
+---
+
+## Incubators & Accelerators
+
+- [Y Combinator](https://www.ycombinator.com/)
+- [Techstars](https://www.techstars.com/)
+- [500 Global](https://500.co/)
+- [Sequoia Arc](https://www.sequoiacap.com/arc/)
+- [a16z START](https://a16z.com/start/)
+
+---
+
+## Glossary
+
+Full A–Z index of concepts in this repo: **[glossary/INDEX.md](glossary/INDEX.md)**
+
+---
 
 ## Contributing
 
-This is a public knowledge resource. You can:
+This is a public knowledge resource. Anyone can suggest links, improve guides, fix mistakes, or add concepts.
 
-- fix mistakes
-- clarify explanations
-- add examples
-- propose new concepts
-- improve navigation and sources
+See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
-Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** before submitting changes.
-
-High-level rules:
-
-- prioritize accuracy and practical usefulness
-- write original explanations (summarize sources; don’t paste them)
-- keep the tone clear, direct, and jargon-light
-- cross-link related pages
-- update the glossary when you add concepts
-
-## Roadmap
-
-Future topics we want to add or deepen:
-
-- Pricing strategies and packaging
-- Hiring, org design, and founder roles
-- Customer success and onboarding systems
-- Marketplaces vs SaaS vs hardware business specifics
-- International expansion
-- Board management and governance
-- Startup legal basics (educational overview)
-- Metrics for marketplaces and usage-based businesses
-- Case libraries and annotated pitch examples
-- Translations
-
-Suggestions welcome via issues.
-
-## Disclaimer
-
-This repository is for education. It is not legal, tax, investment, or fundraising advice. Instruments like SAFEs and term sheets have real consequences — consult qualified professionals for your situation.
+---
 
 ## License
 
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+[CC BY 4.0](LICENSE) — free to share and adapt with attribution.
 
-You are free to share and adapt this material with attribution.
+Educational material only — not legal, tax, or investment advice.
