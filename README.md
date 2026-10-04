@@ -38,20 +38,20 @@ Deep explainers written for smart beginners. Each page covers what it means, why
 
 | Section | Start here |
 | --- | --- |
-| Product | [01-product/](01-product/) |
-| Customers | [02-customers/](02-customers/) |
-| Market | [03-market/](03-market/) |
-| Growth | [04-growth/](04-growth/) |
-| Sales & GTM | [05-sales/](05-sales/) |
-| Metrics | [06-finance/](06-finance/) |
-| Fundraising | [07-fundraising/](07-fundraising/) |
-| Strategy | [08-strategy/](08-strategy/) |
+| Product | [01-product/](guides/01-product/) |
+| Customers | [02-customers/](guides/02-customers/) |
+| Market | [03-market/](guides/03-market/) |
+| Growth | [04-growth/](guides/04-growth/) |
+| Sales & GTM | [05-sales/](guides/05-sales/) |
+| Metrics | [06-finance/](guides/06-finance/) |
+| Fundraising | [07-fundraising/](guides/07-fundraising/) |
+| Strategy | [08-strategy/](guides/08-strategy/) |
 
 Suggested paths:
 
-- **Build something people want:** [MVP](01-product/mvp.md) → [ICP](02-customers/icp.md) → [Wedge](01-product/wedge.md) → [PMF](01-product/product-market-fit.md) → [GTM](05-sales/go-to-market.md)
-- **Understand the market:** [TAM](03-market/tam.md) → [SAM](03-market/sam.md) → [SOM](03-market/som.md) → [Beachhead](08-strategy/beachhead-market.md)
-- **Survive and raise:** [Burn](06-finance/burn-rate.md) → [Runway](06-finance/runway.md) → [SAFE](07-fundraising/safe.md) → [Seed](07-fundraising/seed.md) → [Series A](07-fundraising/series-a.md)
+- **Build something people want:** [MVP](guides/01-product/mvp.md) → [ICP](guides/02-customers/icp.md) → [Wedge](guides/01-product/wedge.md) → [PMF](guides/01-product/product-market-fit.md) → [GTM](guides/05-sales/go-to-market.md)
+- **Understand the market:** [TAM](guides/03-market/tam.md) → [SAM](guides/03-market/sam.md) → [SOM](guides/03-market/som.md) → [Beachhead](guides/08-strategy/beachhead-market.md)
+- **Survive and raise:** [Burn](guides/06-finance/burn-rate.md) → [Runway](guides/06-finance/runway.md) → [SAFE](guides/07-fundraising/safe.md) → [Seed](guides/07-fundraising/seed.md) → [Series A](guides/07-fundraising/series-a.md)
 
 ---
 
@@ -59,12 +59,12 @@ Suggested paths:
 
 ### Guides
 
-- [MVP](01-product/mvp.md) — smallest useful product for learning
-- [Wedge](01-product/wedge.md) — narrow entry point before expanding
-- [Founder-Market Fit](01-product/founder-market-fit.md) — why *you* can win this market
-- [Product-Market Fit](01-product/product-market-fit.md) — evidence the market wants the product
-- [Product Worth](01-product/product-worth.md) — value created and willingness to pay
-- [Product-Led Growth](01-product/product-led-growth.md) — product as the growth engine
+- [MVP](guides/01-product/mvp.md) — smallest useful product for learning
+- [Wedge](guides/01-product/wedge.md) — narrow entry point before expanding
+- [Founder-Market Fit](guides/01-product/founder-market-fit.md) — why *you* can win this market
+- [Product-Market Fit](guides/01-product/product-market-fit.md) — evidence the market wants the product
+- [Product Worth](guides/01-product/product-worth.md) — value created and willingness to pay
+- [Product-Led Growth](guides/01-product/product-led-growth.md) — product as the growth engine
 
 ### Resources
 
@@ -80,8 +80,8 @@ Suggested paths:
 
 ### Guides
 
-- [ICP (Ideal Customer Profile)](02-customers/icp.md)
-- Related: [Beachhead Market](08-strategy/beachhead-market.md) · [Positioning](08-strategy/positioning.md)
+- [ICP (Ideal Customer Profile)](guides/02-customers/icp.md)
+- Related: [Beachhead Market](guides/08-strategy/beachhead-market.md) · [Positioning](guides/08-strategy/positioning.md)
 
 ### Resources
 
@@ -95,14 +95,14 @@ Suggested paths:
 
 ### Guides
 
-- [TAM](03-market/tam.md) · [SAM](03-market/sam.md) · [SOM](03-market/som.md)
-- [Competitive Advantage](03-market/competitive-advantage.md)
-- [Moat](03-market/moat.md)
-- [Network Effects](03-market/network-effects.md)
-- [Switching Costs](03-market/switching-costs.md)
-- [Economies of Scale](03-market/economies-of-scale.md)
-- [Data Moat](03-market/data-moat.md)
-- [Brand Moat](03-market/brand-moat.md)
+- [TAM](guides/03-market/tam.md) · [SAM](guides/03-market/sam.md) · [SOM](guides/03-market/som.md)
+- [Competitive Advantage](guides/03-market/competitive-advantage.md)
+- [Moat](guides/03-market/moat.md)
+- [Network Effects](guides/03-market/network-effects.md)
+- [Switching Costs](guides/03-market/switching-costs.md)
+- [Economies of Scale](guides/03-market/economies-of-scale.md)
+- [Data Moat](guides/03-market/data-moat.md)
+- [Brand Moat](guides/03-market/brand-moat.md)
 
 ### Resources
 
@@ -116,16 +116,16 @@ Suggested paths:
 
 ### Guides
 
-- [Distribution](04-growth/distribution.md)
-- [Organic Growth](04-growth/organic-growth.md)
-- [Paid Acquisition](04-growth/paid-acquisition.md)
-- [Growth Loops](04-growth/growth-loops.md)
-- [Flywheels](04-growth/flywheels.md)
-- [Virality](04-growth/virality.md)
-- [Viral Coefficient](04-growth/viral-coefficient.md)
-- [Viral Loops](04-growth/viral-loops.md)
-- [Referral Loops](04-growth/referral-loops.md)
-- [North Star Metric](04-growth/north-star-metric.md)
+- [Distribution](guides/04-growth/distribution.md)
+- [Organic Growth](guides/04-growth/organic-growth.md)
+- [Paid Acquisition](guides/04-growth/paid-acquisition.md)
+- [Growth Loops](guides/04-growth/growth-loops.md)
+- [Flywheels](guides/04-growth/flywheels.md)
+- [Virality](guides/04-growth/virality.md)
+- [Viral Coefficient](guides/04-growth/viral-coefficient.md)
+- [Viral Loops](guides/04-growth/viral-loops.md)
+- [Referral Loops](guides/04-growth/referral-loops.md)
+- [North Star Metric](guides/04-growth/north-star-metric.md)
 
 ### Resources
 
@@ -140,10 +140,10 @@ Suggested paths:
 
 ### Guides
 
-- [Go-To-Market](05-sales/go-to-market.md)
-- [Sales](05-sales/sales.md)
-- [Sales Motion](05-sales/sales-motion.md) — PLG vs sales-led vs hybrid
-- [Lead Worth](05-sales/lead-worth.md)
+- [Go-To-Market](guides/05-sales/go-to-market.md)
+- [Sales](guides/05-sales/sales.md)
+- [Sales Motion](guides/05-sales/sales-motion.md) — PLG vs sales-led vs hybrid
+- [Lead Worth](guides/05-sales/lead-worth.md)
 
 ### Resources
 
@@ -157,12 +157,12 @@ Suggested paths:
 
 ### Guides
 
-- [Burn Rate](06-finance/burn-rate.md) · [Runway](06-finance/runway.md)
-- [Revenue](06-finance/revenue.md) · [MRR](06-finance/mrr.md) · [ARR](06-finance/arr.md)
-- [Growth Rate](06-finance/growth-rate.md) · [Gross Margin](06-finance/gross-margin.md)
-- [Activation](06-finance/activation.md) · [Conversion Rate](06-finance/conversion-rate.md)
-- [Retention](06-finance/retention.md) · [Churn](06-finance/churn.md) · [Cohorts](06-finance/cohorts.md)
-- [CAC](06-finance/cac.md) · [LTV](06-finance/ltv.md) · [LTV:CAC](06-finance/ltv-cac.md) · [Payback Period](06-finance/payback-period.md)
+- [Burn Rate](guides/06-finance/burn-rate.md) · [Runway](guides/06-finance/runway.md)
+- [Revenue](guides/06-finance/revenue.md) · [MRR](guides/06-finance/mrr.md) · [ARR](guides/06-finance/arr.md)
+- [Growth Rate](guides/06-finance/growth-rate.md) · [Gross Margin](guides/06-finance/gross-margin.md)
+- [Activation](guides/06-finance/activation.md) · [Conversion Rate](guides/06-finance/conversion-rate.md)
+- [Retention](guides/06-finance/retention.md) · [Churn](guides/06-finance/churn.md) · [Cohorts](guides/06-finance/cohorts.md)
+- [CAC](guides/06-finance/cac.md) · [LTV](guides/06-finance/ltv.md) · [LTV:CAC](guides/06-finance/ltv-cac.md) · [Payback Period](guides/06-finance/payback-period.md)
 
 ### Resources
 
@@ -177,13 +177,13 @@ Suggested paths:
 
 ### Guides
 
-- [Pre-Seed](07-fundraising/pre-seed.md)
-- [Seed](07-fundraising/seed.md)
-- [Series A](07-fundraising/series-a.md)
-- [Series B](07-fundraising/series-b.md)
-- [Bridge Round](07-fundraising/bridge-round.md)
-- [SAFE](07-fundraising/safe.md)
-- [Valuation](07-fundraising/valuation.md)
+- [Pre-Seed](guides/07-fundraising/pre-seed.md)
+- [Seed](guides/07-fundraising/seed.md)
+- [Series A](guides/07-fundraising/series-a.md)
+- [Series B](guides/07-fundraising/series-b.md)
+- [Bridge Round](guides/07-fundraising/bridge-round.md)
+- [SAFE](guides/07-fundraising/safe.md)
+- [Valuation](guides/07-fundraising/valuation.md)
 
 ### Resources
 
@@ -201,11 +201,11 @@ Suggested paths:
 
 ### Guides
 
-- [Dilution](07-fundraising/dilution.md)
-- [Cap Table](07-fundraising/cap-table.md)
-- [Term Sheet](07-fundraising/term-sheet.md)
-- [Valuation](07-fundraising/valuation.md)
-- [SAFE](07-fundraising/safe.md)
+- [Dilution](guides/07-fundraising/dilution.md)
+- [Cap Table](guides/07-fundraising/cap-table.md)
+- [Term Sheet](guides/07-fundraising/term-sheet.md)
+- [Valuation](guides/07-fundraising/valuation.md)
+- [SAFE](guides/07-fundraising/safe.md)
 
 ### Resources
 
@@ -220,10 +220,10 @@ Suggested paths:
 
 ### Guides
 
-- [Business Model](08-strategy/business-model.md)
-- [Unit Economics](08-strategy/unit-economics.md)
-- [Beachhead Market](08-strategy/beachhead-market.md)
-- [Positioning](08-strategy/positioning.md)
+- [Business Model](guides/08-strategy/business-model.md)
+- [Unit Economics](guides/08-strategy/unit-economics.md)
+- [Beachhead Market](guides/08-strategy/beachhead-market.md)
+- [Positioning](guides/08-strategy/positioning.md)
 
 ### Resources
 
@@ -243,7 +243,7 @@ Suggested paths:
 - [First Round Review](https://review.firstround.com/)
 - [OpenView](https://openviewpartners.com/)
 - [Stripe Press](https://press.stripe.com/)
-- More curated links: [resources/](resources/)
+- More curated links: [resources/](guides/resources/)
 
 ---
 
@@ -305,7 +305,7 @@ Suggested paths:
 
 ## Glossary
 
-Full A–Z index of concepts in this repo: **[glossary/INDEX.md](glossary/INDEX.md)**
+Full A–Z index of concepts in this repo: **[glossary/INDEX.md](guides/glossary/INDEX.md)**
 
 ---
 
