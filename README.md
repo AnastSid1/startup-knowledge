@@ -7,6 +7,8 @@ Curated startup knowledge for founders: plain-language guides, key concepts, and
 
 Free to read. Open to contributions. Built so you can jump to a topic — like [Raising Money](#raising-money) — and go deeper from there.
 
+Want to improve this list? See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+
 ---
 
 ## Contents
@@ -313,7 +315,7 @@ Full A–Z index of concepts in this repo: **[glossary/INDEX.md](guides/glossary
 
 This is a public knowledge resource. Anyone can suggest links, improve guides, fix mistakes, or add concepts.
 
-See **[CONTRIBUTING.md](guides/CONTRIBUTING.md)**.
+See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 ---
 

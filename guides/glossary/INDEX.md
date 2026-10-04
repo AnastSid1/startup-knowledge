@@ -66,4 +66,4 @@ Quick alphabetical index of concepts in this knowledge base. Each entry links to
 | Virality | Growth via users exposing others to the product | [virality.md](../04-growth/virality.md) |
 | Wedge | Narrow entry product/use case/segment | [wedge.md](../01-product/wedge.md) |
 
-Missing a term? [Open an issue](https://github.com/AnastSid1/startup-knowledge/issues) or see [CONTRIBUTING.md](../CONTRIBUTING.md).
+Missing a term? [Open an issue](https://github.com/AnastSid1/startup-knowledge/issues) or see [CONTRIBUTING.md](../../CONTRIBUTING.md).

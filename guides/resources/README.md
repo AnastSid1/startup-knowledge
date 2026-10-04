@@ -43,4 +43,4 @@ When contributing to this repo:
 3. Prefer durable links when possible
 4. Do not paste copyrighted chapters or paywalled articles
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md).
+See [CONTRIBUTING.md](../../CONTRIBUTING.md).
