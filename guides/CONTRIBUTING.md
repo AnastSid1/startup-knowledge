@@ -6,7 +6,7 @@ Anyone can contribute — founders, operators, investors, students, and curious 
 
 ## Ways to contribute
 
-This repo works like an [awesome list](https://github.com/sindresorhus/awesome): the [README](README.md) is the browsable index (jump links + curated resources), and deeper guides live under [`guides/`](guides/).
+This repo works like an [awesome list](https://github.com/sindresorhus/awesome): the root [README](../README.md) is the browsable index (jump links + curated resources), and deeper guides live in this [`guides/`](./) folder.
 
 1. **Add curated links** — high-quality resources under the right README section (short description, no fluff).
 2. **Fix mistakes** — correct inaccurate definitions, outdated ranges, or broken links.
@@ -66,8 +66,8 @@ Additional guidelines:
 - Use tables for comparisons when they help.
 - Keep headings scannable.
 - Avoid emoji-heavy formatting.
-- Add new terms to [`guides/glossary/INDEX.md`](guides/glossary/INDEX.md).
-- Update the relevant section `README.md` and the root [`README.md`](README.md) table of contents when adding pages.
+- Add new terms to [`glossary/INDEX.md`](glossary/INDEX.md).
+- Update the relevant section `README.md` and the root [`README.md`](../README.md) table of contents when adding pages.
 
 ### Sources
 

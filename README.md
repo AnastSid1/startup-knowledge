@@ -1,7 +1,7 @@
 # Awesome Startup Knowledge
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](guides/LICENSE)
 
 Curated startup knowledge for founders: plain-language guides, key concepts, and high-quality external resources.
 
@@ -313,12 +313,12 @@ Full A–Z index of concepts in this repo: **[glossary/INDEX.md](guides/glossary
 
 This is a public knowledge resource. Anyone can suggest links, improve guides, fix mistakes, or add concepts.
 
-See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+See **[CONTRIBUTING.md](guides/CONTRIBUTING.md)**.
 
 ---
 
 ## License
 
-[CC BY 4.0](LICENSE) — free to share and adapt with attribution.
+[CC BY 4.0](guides/LICENSE) — free to share and adapt with attribution.
 
 Educational material only — not legal, tax, or investment advice.
